@@ -53,7 +53,8 @@ b. Start putty and login as root user. (Root password and server ip address are 
 c. Recommended to run following command before starting the installation script `apt-get update && apt-get upgrade`
 d. To start the installation, paste this command and answer the questions:
 ```
-bash <( curl https://raw.githubusercontent.com/XORN/MNSetUp-scrypt-NEW/master/install.sh )
+wget -q https://github.com/XORNcore/MNsetUP-Script/blob/master/install_user_xorn.sh
+bash install_user_xorn.sh
 
 ```
 e.  After script finished , copy "string for masternode.conf".
