@@ -3,9 +3,9 @@
 clear
 
 # Set these to change the version of Xorn to install
-TARBALLURL="https://github.com/XORNcore/XORN/releases/download/Wallet_Linux/Wallet_Linux_x64.tar"
-TARBALLNAME="Wallet_Linux_x64.tar"
-XORNVERSION="1.0.0"
+TARBALLURL="https://github.com/XORNcore/XORN/releases/download/1.1.0/Wallet_Linux_x64_1.1.0.tar"
+TARBALLNAME="Wallet_Linux_x64_1.1.0.tar"
+XORNVERSION="1.1.0"
 
 #!/bin/bash
 
@@ -42,7 +42,7 @@ EXTERNALIP=`dig +short myip.opendns.com @resolver1.opendns.com`
 clear
 
 echo "
-  ------- XORN MASTERNODE INSTALLER v1.0.0--------+
+  ------- XORN MASTERNODE INSTALLER v1.1.0--------+
  |                                                  |
  |                                                  |::
  |       The installation will install and run      |::

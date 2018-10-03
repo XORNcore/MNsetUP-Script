@@ -16,7 +16,7 @@ Use this instructions to install the wallet,  and setup single masternode on Win
 ## 1. Desktop Wallet Preparation
 
 ### 1.1 Setup the wallet
-a. Download the [wallet](https://github.com/XORNcore/XORN/releases/tag/Wallet_Windows)
+a. Download the [wallet](https://github.com/XORNcore/XORN/releases/tag/1.1.0)
 b. Start the wallet and wait for the sync. (30min to 1h depending on the number of the connections)
 	
 ## 2. Masternode Setup
