@@ -100,7 +100,7 @@ Your MN is now started!!
 	1.6 You can send selected amount to any valid XORN address.
 	1.7 Note: DO NOT EVER Transfer XORN from that original 10k deposit or you'll break your Masternode.
 
-2. What is the password for the tritt account on VPS?
+2. What is the password for the xorn account on VPS?
 	- There is no default password. When you create a user it does not have a password.
 
 3. I get the following error: "Could not allocate vin".
